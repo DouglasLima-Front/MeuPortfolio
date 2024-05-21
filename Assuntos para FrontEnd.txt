@@ -93,3 +93,5 @@ Fonte01: https://www.fullture.com/wp-content/uploads/2021/07/Plano-de-Ensino-Dev
 Fonte02: https://www.dio.me/bootcamp/tqi-fullstack-developer
 
 Fonte03: https://woliveiras.com.br/posts/guia-de-estudos-desenvolvedor-front-end-iniciante
+
+Fonte04: https://www.cin.ufpe.br/~dfop/Arquivos/Pacote%20Web/HTML5%20e%20CSS3%20com%20Farinha%20e%20Pimenta%20Diego%20Eis%20e%20Elcio%20Ferreira.pdf
