@@ -16,3 +16,8 @@ O cronograma será dividido da seguinte forma:
 
 Desejo a você boa sorte, e para mim também! ^^
 ## Front-End ##
+1. **HTML5**
+   * Elementos do HTML5;
+   * Semântica do HTML5;
+   * Prática *(Exercícios)*.
+   
