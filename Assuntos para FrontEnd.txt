@@ -1,60 +1,9 @@
-HTML5
-UNIDADE 1
-• Elementos do HTML5
-• Semântica do HTML5
-• Prática
 
 
-CSS
-UNIDADE 2
-• O que é CSS?
-• Como funciona o CSS?
-• Como usar o CSS em uma página HTML?
-• O que são imagens e os tipos da imagem?
-• Como incluir uma imagem com a folha de
-estilo?
-• Conceito de criação de estilos Operadores
-de estilo
-• Flexbox
-• CSSGrid
-• Prática
-
-
-Como funciona HTML e CSS junto?
-UNIDADE 3
-• Como funciona HTML e CSS junto?
-• Como criar um código HTML semântico
-• Estilizando um formulário de Contato
-• Como criar uma página HTML aplicando o CSS
-• Criando o site “Minha Loja”
-
-UNIDADE 4
-
-• Estrutura do site
-• Geração do código HTML semântico
-• Geração da folha de estilo
-• Publicação do site estático em algum
-servidor na Nuvem
-
-
-Crie um projeto com HTML e CSS do zero
-Pratique estilizações com CSS
-Entenda a importância do HTML semântico e boas práticas de desenvolvimento
-Organizar uma página com CSS Flexbox
-Criar cabeçalhos, rodapés e aplicar estilos com CSS
-Tornar seu site responsivo para diferentes tamanhos de tela
-Construa um site utilizando HTML e CSS
-Identifique elementos e estilos através do Figma
-Aplique seus conhecimentos adquiridos até agora em um projeto real
-Crie um repositório para armazenar o código do projeto
-Realize o deploy de um site através do Github Pages ou Vercel
-Compartilhe o seu projeto com o mundo
 Conheça a abordagem mobile-first
 Front-End: A Interface do Usuário
 
 
-Formação: iniciante em programação.
-Formação: HTML e CSS.
 Formação: JavaScript para Front-end.
 Curso: JQuery domine a biblioteca mais popular do mercado parte 1.
 Curso: JQuery avance na biblioteca mais popular do mercado parte 2.
@@ -78,12 +27,9 @@ Domine React.js, a biblioteca líder de mercado para Front-End, desde os fundame
 
 Bootstrap
 
-Lógica de Programação
-Javascript
-Depuração
 
-Git e GitHub
-Prototipação, UX e UI
+Javascript
+
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 Fonte
