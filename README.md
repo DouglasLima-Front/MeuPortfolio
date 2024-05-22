@@ -57,7 +57,19 @@ Desejo a você boa sorte, e para mim também! ^^
    * Construa um site utilizando HTML e CSS *(Exercícios)*;
    * Aplique seus conhecimentos adquiridos até agora em um projeto real *(Exercícios)*;
    * Criando o site “Minha Loja” *(Exercícios)*.
-4. **Git e GitHub**
+4. **Lógica de Programação**
+   * Introdução à lógica de programação;
+   * Estruturas de controle;
+   * Tipos de dados e variáveis;
+   * Funções e modularização;
+   * Exemplos Práticos de Estruturas de Controle *(Exercícios)*;
+   * Funções e Modularização;
+   * Algoritmos e Pseudocódigo;
+   * Estruturas de Dados Avançadas *(Introdução)*;
+   * Manipulação de Strings;
+   * Manipulação de Arquivos;
+   * Debugging e Testes.
+6. **Git e GitHub**
    * Introdução ao Controle de Versão;
    * Fundamentos do Git;
    * Introdução ao GitHub;
@@ -67,7 +79,7 @@ Desejo a você boa sorte, e para mim também! ^^
    * Crie um repositório para armazenar o código do projeto *(Exercícios)*;
    * Realize o deploy de um site através do Github Pages ou Vercel *(Exercícios)*;
    * Compartilhe o seu projeto com o mundo *(Exercícios)*;
-5. **Bootstrap**
+7. **Bootstrap**
    * Introdução ao Bootstrap
    * O que é Bootstrap e por que usá-lo?;
    * Instalação e configuração do Bootstrap (via CDN e local);
@@ -85,3 +97,40 @@ Desejo a você boa sorte, e para mim também! ^^
    * Projetos Práticos com Bootstrap;
    * Criação de um site responsivo com Bootstrap *(Exercícios)*;
    * Desenvolvimento de um Dashboard *(Exercícios)*.
+8. **JavaScript**
+   * Introdução ao JavaScript;
+   * O que é JavaScript e onde é utilizado?;
+   * Sintaxe básica e estruturas de controle *(variáveis, operadores, condicionais, loops)*;
+   * Manipulação do DOM;
+   * Seleção de elementos *(getElementById, querySelector)*;
+   * Manipulação de conteúdo e estilo *(innerText, innerHTML, classList)*;
+   * Eventos em JavaScript;
+   * Tipos de eventos *(click, submit, mouseover)*;
+   * Adicionando e removendo event listeners;
+   * Trabalhando com APIs e AJAX;
+   * Introdução ao AJAX e Fetch API;
+   * Consumo de APIs REST;
+   * ES6 e Recursos Avançados;
+   * Arrow functions, Promises, async/await;
+   * Desestruturação de objetos e arrays;
+   * Módulos em JavaScript;
+   * Projetos Práticos com JavaScript;
+   * Criação de uma galeria de imagens dinâmica *(Exercícios)*;
+   * Desenvolvimento de um to-do list interativo *(Exercícios)*;
+   * Aplicação de conceitos de API em um projeto real *(Exercícios)*.
+9. **Prototipação, UX e UI**
+   * Introdução à Prototipação;
+   * Conceito e importância da prototipação;
+   * Ferramentas de prototipação;
+   * Figma, Adobe XD, Sketch;
+   * Fundamentos de UX *(User Experience)*;
+   * Princípios de design centrado no usuário;
+   * Pesquisa e testes de usabilidade;
+   * Fundamentos de UI *(User Interface)*;
+   * Princípios de design visual;
+   * Tipografia, cores, e layout;
+   * Criação de wireframes e protótipos interativos;
+   * Implementação de feedback de usuários;
+   * Projetos Práticos de UX/UI;
+   * Desenvolvimento de um protótipo completo *(Exercícios)*;
+   * Implementação de um design UI/UX em um projeto real *(Exercícios).*
