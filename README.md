@@ -15,7 +15,11 @@ O cronograma será dividido da seguinte forma:
 
 
 Desejo a você boa sorte, e para mim também! ^^
+
 ## Front-End ##
+<details>
+  <summary>Clique aqui para exibir</summary>
+  
 1. **HTML5**
    * Elementos do HTML5;
    * Semântica do HTML5;
@@ -134,3 +138,114 @@ Desejo a você boa sorte, e para mim também! ^^
    * Projetos Práticos de UX/UI;
    * Desenvolvimento de um protótipo completo *(Exercícios)*;
    * Implementação de um design UI/UX em um projeto real *(Exercícios).*
+  
+</details>
+
+## Back-End ##
+<details>
+  <summary>Clique aqui para exibir</summary>
+  
+1. **Fundamentos de Programação Back-End**
+   * Introdução ao Desenvolvimento Back-End;
+   * Principais linguagens utilizadas (Python, Java, JavaScript (Node.js), etc.);
+   * Configuração do ambiente de desenvolvimento;
+2. **Linguagens de Programação**
+   * __Node.JS__
+      * *Introdução ao Node.js;*
+      * *Módulos e NPM;*
+      * *Criação de um servidor básico;*
+      * *Manipulação de arquivos;*
+      * *Eventos e Streams;*
+      * *Trabalhando com bancos de dados (MongoDB);*
+      * *Testes e Debugging;*
+      * *Projetos Práticos (Exercícios).*
+   * __Python__
+      * *Introdução ao Python para Web;*
+      * *Configuração do ambiente com virtualenv;*
+      * *Flask vs Django;*
+      * *Criação de um projeto básico em Flask;*
+      * *Criação de um projeto básico em Django;*
+      * *ORM (Object-Relational Mapping) com SQLAlchemy ou Django ORM;*
+      * *Autenticação e Autorização;*
+      * *Testes e Debugging;*
+      * *Projetos Práticos (Exercícios).*
+    * __Java__
+      * *Introdução ao Java para Web;*
+      * *Spring Boot;*
+      * *Criação de um projeto básico com Spring Boot;*
+      * *JPA (Java Persistence API);*
+      * *Segurança com Spring Security;*
+      * *Testes com JUnit;*
+      * *Projetos Práticos (Exercícios).*
+  3. **Bancos de Dados**
+    * __SQL__
+      * *Introdução ao SQL;*
+      * *Criação de Bancos de Dados e Tabelas;*
+      * *CRUD (Create, Read, Update, Delete);*
+      * *Joins, Subqueries e Transações;*
+      * *Índices e Otimização de Consultas;*
+      * *Projetos Práticos (Exercícios).*
+   * __NoSQL__
+      * *Introdução ao NoSQL;*
+      * *MongoDB;*
+      * *Documentos, Coleções e CRUD;*
+      * *Índices e Agregações;*
+      * *Modelagem de Dados em NoSQL;*
+      * *Projetos Práticos (Exercícios);*
+      * *APIs e Serviços Web.
+
+RESTful APIs
+
+Conceitos de REST
+Criação de APIs RESTful
+Autenticação e Autorização (JWT, OAuth)
+Documentação de APIs (Swagger)
+Versionamento de APIs
+Projetos Práticos (Exercícios)
+GraphQL
+
+Introdução ao GraphQL
+Criação de um servidor GraphQL
+Consultas, Mutations e Subscriptions
+Integração com Bancos de Dados
+Projetos Práticos (Exercícios)
+DevOps e Integração Contínua
+
+Introdução ao DevOps
+
+Docker
+
+Conceitos e Utilização
+Criação de Imagens e Containers
+Docker Compose
+Projetos Práticos (Exercícios)
+CI/CD
+
+Conceitos de Integração e Entrega Contínua
+Ferramentas (Jenkins, GitHub Actions, GitLab CI)
+Pipelines de Deploy
+Projetos Práticos (Exercícios)
+Arquitetura de Software
+
+Padrões de Projeto (Design Patterns)
+Arquitetura MVC (Model-View-Controller)
+Arquitetura em Microserviços
+Mensageria (RabbitMQ, Kafka)
+Projetos Práticos (Exercícios)
+Segurança
+
+Fundamentos de Segurança em Aplicações Web
+SSL/TLS
+Certificados e Criptografia
+OWASP
+Principais Vulnerabilidades
+Mitigação de Riscos
+Testes de Segurança
+Projetos Práticos (Exercícios)
+Projetos Finais
+
+Desenvolvimento de um Projeto Completo (Aplicação Full-Stack)
+Integração do Front-End com o Back-End
+Publicação da Aplicação na Nuvem (AWS, Heroku, Vercel)
+Testes e Refinamentos Finais
+Apresentação do Projeto
