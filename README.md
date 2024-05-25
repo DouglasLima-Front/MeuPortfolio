@@ -183,6 +183,8 @@ Desejo a você boa sorte, e para mim também! ^^
       * *Criação de Bancos de Dados e Tabelas;*
       * *CRUD (Create, Read, Update, Delete);*
       * *Joins, Subqueries e Transações;*
+      * *Desempenho de Banco de Dados e Usabilidade;*
+      * *Otimização de Consultas e Impacto na UX;*
       * *Índices e Otimização de Consultas;*
       * *Projetos Práticos (Exercícios).*
    * __NoSQL__
@@ -374,3 +376,79 @@ _Complemento de Competências:_ Muitos desenvolvedores dominam as tecnologias e 
 _Normas e Acessibilidade:_ A acessibilidade é uma parte crucial da usabilidade que pode ser negligenciada. Incluir uma seção dedicada garante que os desenvolvedores estejam cientes das melhores práticas e obrigações legais, criando produtos inclusivos e acessíveis.
 </details>     
  
+## Desenvolvimento Mobile ##
+<details>
+  <summary>Clique aqui para exibir</summary>
+  
+1. **Fundamentos do Desenvolvimento Mobile**
+   * Introdução ao Desenvolvimento Mobile;
+   * Diferenças entre Desenvolvimento Nativo, Híbrido e Cross-Platform;
+   * Configuração do Ambiente de Desenvolvimento (Android Studio, Xcode, Visual Studio Code).
+2. **Desenvolvimento Nativo para Android**
+   * Introdução ao Android e Arquitetura;
+   * Linguagem Kotlin: Fundamentos e Sintaxe;
+   * Criação de Interfaces com XML;
+   * Ciclo de Vida de Atividades e Fragmentos;
+   * Intents e Navegação;
+   * Gerenciamento de Recursos (strings, cores, dimensões);
+   * Persistência de Dados com SQLite e Room;
+   * Comunicação com APIs (Retrofit, Volley);
+   * Testes Unitários e de UI (JUnit, Espresso);
+   * Publicação na Google Play Store.
+3. **Desenvolvimento Nativo para iOS**
+   * Introdução ao iOS e Arquitetura
+   * Linguagem Swift: Fundamentos e Sintaxe
+   * Criação de Interfaces com Storyboards e SwiftUI
+   * Ciclo de Vida de ViewControllers
+   * Navegação e Segues
+   * Gerenciamento de Recursos (strings, cores, dimensões)
+   * Persistência de Dados com Core Data e UserDefaults
+   * Comunicação com APIs (URLSession, Alamofire)
+   * Testes Unitários e de UI (XCTest)
+   * Publicação na App Store
+4. **Desenvolvimento Cross-Platform**
+   * Introdução ao Desenvolvimento Cross-Platform;
+   * Ferramentas e Frameworks (Flutter, React Native);
+   * Princípios do Flutter;
+     * *Dart: Fundamentos e Sintaxe;*
+     * *Widgets: Stateful e Stateless;*
+     * *Navegação e Rotas;*
+     * *Comunicação com APIs;*
+     * *Persistência de Dados (SQLite, SharedPreferences);*
+     * *Testes (Unitários e de Widget);*
+     * *Publicação para Android e iOS.*
+   * Princípios do React Native
+     * *JavaScript e JSX: Fundamentos e Sintaxe;*
+     * *Componentes: Stateful e Stateless;*
+     * *Navegação (React Navigation);*
+     * *Comunicação com APIs (Fetch, Axios);*
+     * *Persistência de Dados (AsyncStorage, Realm);*
+     * *Testes (Jest, Enzyme);*
+     * *Publicação para Android e iOS.*
+5. **Design e Usabilidade Mobile**
+   * Princípios de Design Mobile;
+   * Design Responsivo e Adaptativo;
+   * Padrões de Interação e UI para Android e iOS;
+   * Ferramentas de Prototipação (Figma, Adobe XD);
+   * Acessibilidade em Aplicativos Mobile.
+6. **Performance e Otimização**
+   * Técnicas de Otimização de Performance;
+   * Análise de Performance e Monitoramento (Android Profiler, Instruments);
+   * Melhores Práticas de Código e Estrutura de Projetos.
+7. **Segurança Mobile**
+   * Fundamentos de Segurança em Aplicativos Mobile;
+   * Armazenamento Seguro de Dados;
+   * Comunicação Segura com APIs;
+   * Proteção contra Vulnerabilidades Comuns (OWASP Mobile Top 10);
+   * Implementação de Autenticação e Autorização Seguras.
+8. **Integração com Serviços e APIs**
+   * Push Notifications (Firebase, APNs);
+   * Integração com Serviços de Terceiros (Google Maps, Payment Gateways);
+   * Uso de Serviços em Tempo Real (WebSockets, Firebase Realtime Database).
+9. **Projetos Práticos**
+   * Desenvolvimento de um Aplicativo Completo;
+   * Integração de Funcionalidades Avançadas;
+   * Testes e Refinamentos Finais;
+   * Publicação e Distribuição do Aplicativo;
+   * Apresentação e Demonstração do Projeto.
+</details>
