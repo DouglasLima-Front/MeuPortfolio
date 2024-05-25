@@ -18,7 +18,7 @@ Desejo a você boa sorte, e para mim também! ^^
 
 ## Front-End ##
 <details>
-  <summary>Clique aqui para exibir</summary>
+  <summary><span style="color: blue; text-decoration: underline;">Clique aqui para exibir</span></summary>
   
 1. **HTML5**
    * Elementos do HTML5;
