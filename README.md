@@ -300,21 +300,77 @@ Desejo a você boa sorte, e para mim também! ^^
    * Publicação e apresentação do projeto;
    * Revisão de código e otimizações finais;
    * Preparação de documentação e guias de uso.
+
 **Justificativa:**
-*Integração Front-End e Back-End:* Ensinará como conectar as duas partes de maneira eficiente.
 
-*Autenticação e Autorização:* Essencial para qualquer aplicação que necessite de segurança.
+* *Integração Front-End e Back-End:* Ensinará como conectar as duas partes de maneira eficiente.
+* *Autenticação e Autorização:* Essencial para qualquer aplicação que necessite de segurança.
+* *Gerenciamento de Estado no Front-End:* Importante para aplicações com dados dinâmicos.
+* *Ferramentas e Tecnologias de Build:* Facilitam o processo de desenvolvimento e otimização.
+* *Deploy e Infraestrutura:* Preparará para o deploy de aplicações em produção.
+* *Boas Práticas de Desenvolvimento Full-Stack:* Garantem qualidade e manutenção do código.
+* *Projetos Práticos:* Aplicação prática dos conhecimentos adquiridos.
+* *Tecnologias Emergentes:* Mantém o desenvolvedor atualizado com as novas tendências do mercado.
+* *Projetos Finais:* Consolidam todo o aprendizado em um projeto real.
+</details>
 
-*Gerenciamento de Estado no Front-End:* Importante para aplicações com dados dinâmicos.
+## Noções de Usabilidade ##
+<details>
+  <summary>Clique aqui para exibir</summary>
 
-*Ferramentas e Tecnologias de Build:* Facilitam o processo de desenvolvimento e otimização.
+1. **Princípios de Usabilidade**
+   * O que é usabilidade?;
+   * Por que a usabilidade é crucial para o sucesso de um produto?;
+   * Heurísticas de Usabilidade
+     * *Princípios de Jakob Nielsen;*
+     * *Exemplos práticos de aplicação.*
+2. **Acessibilidade**
+   * Fundamentos de Acessibilidade Web;
+     * *Importância da acessibilidade;*
+     * *Principais leis e normas (WCAG);*
+   * Práticas de Acessibilidade;
+     * *Uso de ARIA (Accessible Rich Internet Applications);*
+     * *Ferramentas para testar acessibilidade;*
+3. **Design Centrado no Usuário (UCD)**
+   * Processo de Design Centrado no Usuário;
+     * *Etapas do UCD (Pesquisa, Design, Prototipação, Teste);*
+   * Métodos de Pesquisa com Usuários;
+     * *Entrevistas, questionários, grupos focais;*
+   * Personas e Cenários
+     * *Criação e uso de personas*;
+     * *Desenvolvimento de cenários de uso*;
+4. **Arquitetura da Informação**
+   * Estrutura e Organização de Conteúdo;
+     * *Hierarquia da informação;*
+     * *Mapas de site e wireframes;*
+   * Navegação e Rotulagem;
+     * *Boas práticas de navegação;*
+     * *Criação de rótulos intuitivos;*
+5. **Design de Interação**
+   * Padrões de Design de Interação
+     * *Componentes de interface comuns;*
+     * *Padrões de navegação e feedback do usuário;*
+   * Protótipos Interativos
+     * *Ferramentas para criação de protótipos (Figma, Sketch);*
+     * *Teste de protótipos com usuários;*
+6. **Avaliação e Teste de Usabilidade**
+   * Métodos de Avaliação
+     * *Testes de usabilidade;*
+     * *Análise heurística;*
+   * Ferramentas para Teste de Usabilidade
+     * *Software e ferramentas online;*
+   * Interpretação de Resultados
+     * *Análise de dados e feedback de usuários;*
+     * *Implementação de melhorias;*
+    
+**Justificativa:**
 
-*Deploy e Infraestrutura:* Preparará para o deploy de aplicações em produção.
+_Especialização e Profundidade:_ Embora aspectos de usabilidade sejam abordados nas seções de Front-End, Back-End e Full-Stack, um módulo dedicado pode garantir uma compreensão mais profunda e especializada, abordando nuances que podem ser perdidas em uma abordagem mais geral.
 
-*Boas Práticas de Desenvolvimento Full-Stack:* Garantem qualidade e manutenção do código.
+_Enfoque no Usuário:_ Noções de usabilidade são fundamentais para criar interfaces eficazes e agradáveis para os usuários finais. A ênfase explícita nessas noções ajuda a garantir que os desenvolvedores não apenas dominem a tecnologia, mas também foquem nas necessidades e experiências dos usuários.
 
-*Projetos Práticos:* Aplicação prática dos conhecimentos adquiridos.
+_Complemento de Competências:_ Muitos desenvolvedores dominam as tecnologias e ferramentas, mas podem carecer de uma compreensão sólida de como essas tecnologias impactam a experiência do usuário. Um módulo de usabilidade preencheria essa lacuna, promovendo uma formação mais holística e equilibrada.
 
-*Tecnologias Emergentes:* Mantém o desenvolvedor atualizado com as novas tendências do mercado.
-
-*Projetos Finais:* Consolidam todo o aprendizado em um projeto real.
+_Normas e Acessibilidade:_ A acessibilidade é uma parte crucial da usabilidade que pode ser negligenciada. Incluir uma seção dedicada garante que os desenvolvedores estejam cientes das melhores práticas e obrigações legais, criando produtos inclusivos e acessíveis.
+</details>     
+ 
