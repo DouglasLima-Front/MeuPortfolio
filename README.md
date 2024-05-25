@@ -452,3 +452,71 @@ _Normas e Acessibilidade:_ A acessibilidade é uma parte crucial da usabilidade 
    * Publicação e Distribuição do Aplicativo;
    * Apresentação e Demonstração do Projeto.
 </details>
+
+## Infraestrutura, Cloud e DevOps ##
+<details>
+  <summary>Clique aqui para exibir</summary>
+  
+1. **Fundamentos de Infraestrutura e Cloud**
+   * Introdução à Infraestrutura de TI;
+   * Diferença entre Infraestrutura Física e Virtual;
+   * Fundamentos de Computação em Nuvem;
+     * *Modelos de Serviço (IaaS, PaaS, SaaS);*
+     * *Modelos de Implantação (Pública, Privada, Híbrida).*
+2. **Computação em Nuvem**
+   * AWS
+     * *Fundamentos do AWS;*
+     * *Principais Serviços (EC2, S3, RDS, Lambda);*
+     * *Configuração de Ambientes de Desenvolvimento e Produção;*
+     * *Práticas de Segurança na AWS.*
+   * Azure
+     * *Introdução ao Azure;*
+     * *Principais Serviços (VMs, Blob Storage, SQL Database, Azure Functions);*
+     * *Configuração e Gerenciamento de Recursos no Azure;*
+     * *Segurança e Conformidade no Azure.*
+   * Google Cloud
+     * *Fundamentos do Google Cloud Platform (GCP);*
+     * *Principais Serviços (Compute Engine, Cloud Storage, Cloud SQL, Cloud Functions);*
+     * *Gerenciamento de Recursos e Configuração de Ambientes;*
+     * *Práticas de Segurança no GCP.*
+3. **DevOps e Integração Contínua**
+   * Conceitos de DevOps;
+   * Introdução ao DevOps e sua importância;
+   * Cultura e Práticas de DevOps
+   * CI/CD;
+   * Fundamentos de Integração e Entrega Contínua;
+   * Ferramentas (Jenkins, GitHub Actions, GitLab CI);
+   * Configuração e Automação de Pipelines CI/CD;
+   * Práticas de Deploy Contínuo.
+   * Monitoramento e Logging;
+   * Introdução ao Monitoramento de Sistemas;
+   * Ferramentas de Monitoramento (Prometheus, Grafana);
+   * Logging Centralizado (ELK Stack);
+   * Análise de Logs e Alertas.
+4. **Contêineres e Orquestração**
+   * Docker
+   * Conceitos Básicos e Utilização do Docker;
+   * Criação e Gerenciamento de Imagens e Containers;
+   * Docker Compose para Definição de Aplicações Multi-Container;
+   * Kubernetes
+   * Introdução ao Kubernetes e sua Arquitetura;
+   * Configuração de Clusters Kubernetes;
+   * Gerenciamento de Deployments, Services e Pods;
+   * Práticas de Escalabilidade e Auto-Scaling.
+5. **Infraestrutura como Código (IaC)**
+   * Terraform
+   * Fundamentos do Terraform;
+   * Definição de Infraestrutura como Código;
+   * Gerenciamento e Aplicação de Configurações.
+   * Ansible
+   * Introdução ao Ansible;
+   * Automação de Configuração e Gerenciamento de Servidores;
+   * Playbooks e Inventários.
+6. **Segurança em DevOps e Cloud**
+   * Fundamentos de Segurança em DevOps;
+   * Práticas de Segurança em Ambientes de Nuvem;
+   * Gerenciamento de Identidade e Acesso (IAM);
+   * Implementação de Políticas de Segurança e Conformidade.
+</details>
+
+
