@@ -242,3 +242,79 @@ Desejo a você boa sorte, e para mim também! ^^
    * Apresentação do Projeto.
 
 </details>
+
+## Full-Stack ##
+<details>
+  <summary>Clique aqui para exibir</summary>
+  
+1. **Integração Front-End e Back-End**
+   * Comunicação entre Front-End e Back-End;
+     * *Requests HTTP;*
+     * *AJAX e Fetch API;*
+     * *WebSockets.*
+   * Consumo de APIs no Front-End;
+     * *Manipulação de dados recebidos do Back-End;*
+     * *Exibição de dados em componentes Front-End.*
+2. **Autenticação e Autorização**
+   * Implementação de autenticação;
+     * *Sessões e Cookies;*
+     * *Tokens JWT;*
+   * Autorização baseada em permissões;
+   * Implementação de fluxos de autenticação (Login, Logout, Registro).
+3. **Gerenciamento de Estado no Front-End**
+   * Introdução ao Redux;
+   * Context API;
+   * Integração com Back-End;
+   * Boas práticas de gerenciamento de estado.
+4. **Ferramentas e Tecnologias de Build**
+   * Webpack;
+   * Babel;
+   * Configuração de um projeto Full-Stack;
+   * Automação de tarefas com Gulp/Grunt.
+5. **Deploy e Infraestrutura**
+   * Infraestrutura como código (IaC) com Terraform;
+   * Configuração de servidores com Ansible;
+   * Containers com Docker;
+   * Orquestração de containers com Kubernetes;
+   * Monitoramento e Logging (Prometheus, Grafana, ELK Stack).
+6. **Boas Práticas de Desenvolvimento Full-Stack**
+   * Testes end-to-end (Cypress, Selenium);
+   * Testes de Integração;
+   * Testes Unitários (Jest, Mocha);
+   * Práticas de DevOps e CI/CD;
+   * Análise de desempenho e otimização.
+7. **Projetos Práticos Full-Stack**
+   * Desenvolvimento de uma aplicação real integrada;
+   * Aplicação de conceitos de CI/CD;
+   * Deploy em ambiente de produção (AWS, Heroku, Vercel);
+   * Implementação de autenticação e autorização completas;
+   * Gerenciamento de estado avançado.
+8. **Ferramentas e Tecnologias Emergentes**
+   * JAMstack (JavaScript, APIs, Markup)
+   * Static Site Generators (Gatsby, Next.js)
+   * Serverless Architecture
+   * Micro-frontend
+9. **Projetos Finais e Apresentação**
+   * Desenvolvimento de um projeto Full-Stack completo;
+   * Integração de todas as partes Front-End e Back-End;
+   * Publicação e apresentação do projeto;
+   * Revisão de código e otimizações finais;
+   * Preparação de documentação e guias de uso.
+**Justificativa:**
+*Integração Front-End e Back-End:* Ensinará como conectar as duas partes de maneira eficiente.
+
+*Autenticação e Autorização:* Essencial para qualquer aplicação que necessite de segurança.
+
+*Gerenciamento de Estado no Front-End:* Importante para aplicações com dados dinâmicos.
+
+*Ferramentas e Tecnologias de Build:* Facilitam o processo de desenvolvimento e otimização.
+
+*Deploy e Infraestrutura:* Preparará para o deploy de aplicações em produção.
+
+*Boas Práticas de Desenvolvimento Full-Stack:* Garantem qualidade e manutenção do código.
+
+*Projetos Práticos:* Aplicação prática dos conhecimentos adquiridos.
+
+*Tecnologias Emergentes:* Mantém o desenvolvedor atualizado com as novas tendências do mercado.
+
+*Projetos Finais:* Consolidam todo o aprendizado em um projeto real.
