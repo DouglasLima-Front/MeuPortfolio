@@ -169,7 +169,7 @@ Desejo a você boa sorte, e para mim também! ^^
       * *Autenticação e Autorização;*
       * *Testes e Debugging;*
       * *Projetos Práticos (Exercícios).*
-    * __Java__
+   * __Java__
       * *Introdução ao Java para Web;*
       * *Spring Boot;*
       * *Criação de um projeto básico com Spring Boot;*
@@ -177,8 +177,8 @@ Desejo a você boa sorte, e para mim também! ^^
       * *Segurança com Spring Security;*
       * *Testes com JUnit;*
       * *Projetos Práticos (Exercícios).*
-  3. **Bancos de Dados**
-    * __SQL__
+3. **Bancos de Dados**
+   * __SQL__
       * *Introdução ao SQL;*
       * *Criação de Bancos de Dados e Tabelas;*
       * *CRUD (Create, Read, Update, Delete);*
@@ -192,60 +192,53 @@ Desejo a você boa sorte, e para mim também! ^^
       * *Índices e Agregações;*
       * *Modelagem de Dados em NoSQL;*
       * *Projetos Práticos (Exercícios);*
-      * *APIs e Serviços Web.
+4. **APIs e Serviços Web**
+   * RESTful APIs;
+   * Conceitos de REST;
+   * *Criação de APIs RESTful;
+   * Autenticação e Autorização (JWT, OAuth);
+   * Documentação de APIs (Swagger);
+   * Versionamento de APIs;
+   * Projetos Práticos (Exercícios).
+   * __GraphQL__
+      * *Introdução ao GraphQL;*
+      * *Criação de um servidor GraphQL;*
+      * *Consultas, Mutations e Subscriptions;*
+      * *Integração com Bancos de Dados;*
+      * *Projetos Práticos (Exercícios).*
+5. **DevOps e Integração Contínua**
+   * Introdução ao DevOps;
+   * Docker
+   * Conceitos e Utilização;
+   * Criação de Imagens e Containers;
+   * Docker Compose;
+   * Projetos Práticos (Exercícios);
+   * __CI/CD__
+      * *Conceitos de Integração e Entrega Contínua;*
+      * *Ferramentas (Jenkins, GitHub Actions, GitLab CI);*
+      * *Pipelines de Deploy;*
+      * *Projetos Práticos (Exercícios).*
 
-RESTful APIs
+6. **Arquitetura de Software**
+   * Padrões de Projeto (Design Patterns);
+   * Arquitetura MVC (Model-View-Controller);
+   * Arquitetura em Microserviços;
+   * Mensageria (RabbitMQ, Kafka);
+   * Projetos Práticos (Exercícios).
+7. **Segurança**
+   * Fundamentos de Segurança em Aplicações Web;
+   * SSL/TLS;
+      * *Certificados e Criptografia;*
+   * OWASP
+      * *Principais Vulnerabilidades;*
+      * *Mitigação de Riscos;*
+      * *Testes de Segurança;*
+      * *Projetos Práticos (Exercícios);*
+8. **Projetos Finais**
+   * Desenvolvimento de um Projeto Completo (Aplicação Full-Stack);
+   * Integração do Front-End com o Back-End;
+   * Publicação da Aplicação na Nuvem (AWS, Heroku, Vercel);
+   * Testes e Refinamentos Finais;
+   * Apresentação do Projeto.
 
-Conceitos de REST
-Criação de APIs RESTful
-Autenticação e Autorização (JWT, OAuth)
-Documentação de APIs (Swagger)
-Versionamento de APIs
-Projetos Práticos (Exercícios)
-GraphQL
-
-Introdução ao GraphQL
-Criação de um servidor GraphQL
-Consultas, Mutations e Subscriptions
-Integração com Bancos de Dados
-Projetos Práticos (Exercícios)
-DevOps e Integração Contínua
-
-Introdução ao DevOps
-
-Docker
-
-Conceitos e Utilização
-Criação de Imagens e Containers
-Docker Compose
-Projetos Práticos (Exercícios)
-CI/CD
-
-Conceitos de Integração e Entrega Contínua
-Ferramentas (Jenkins, GitHub Actions, GitLab CI)
-Pipelines de Deploy
-Projetos Práticos (Exercícios)
-Arquitetura de Software
-
-Padrões de Projeto (Design Patterns)
-Arquitetura MVC (Model-View-Controller)
-Arquitetura em Microserviços
-Mensageria (RabbitMQ, Kafka)
-Projetos Práticos (Exercícios)
-Segurança
-
-Fundamentos de Segurança em Aplicações Web
-SSL/TLS
-Certificados e Criptografia
-OWASP
-Principais Vulnerabilidades
-Mitigação de Riscos
-Testes de Segurança
-Projetos Práticos (Exercícios)
-Projetos Finais
-
-Desenvolvimento de um Projeto Completo (Aplicação Full-Stack)
-Integração do Front-End com o Back-End
-Publicação da Aplicação na Nuvem (AWS, Heroku, Vercel)
-Testes e Refinamentos Finais
-Apresentação do Projeto
+</details>
