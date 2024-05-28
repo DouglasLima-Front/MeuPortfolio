@@ -10,7 +10,7 @@ class Carro{
 
 class Garagem{
     String id;
-    String carro[];
+    Carro[] carro;
 }
 
 public class Estacionamento {
