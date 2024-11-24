@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.icon {
+    width: 62px; 
+    height: 62px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    border: 2px solid #ccc; 
+}
+
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 65%;
+}
+
+.rodape{
+    width: 495;
+    height: 99px;
+}
